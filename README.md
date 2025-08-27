@@ -15,7 +15,7 @@ I’m breaking everything into lessons, with practice challenges under each one.
 
 **Challenges:**
 - [Practice 1: Age Calc](lesson1_basics/age_calculator.py)  
-- [Practice 2: Age in 10 years](lesson1_basics/practice2_double_half_age.py)  
+- [Practice 2: Age in 10 years](lesson1_basics/agecalc2.py)  
 - [Practice 3: Sum & Product](lesson1_basics/practice3_sum_product.py)  
 
 ---
