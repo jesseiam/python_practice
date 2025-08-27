@@ -14,7 +14,7 @@ I’m breaking everything into lessons, with practice challenges under each one.
 - F-strings for formatting
 
 **Challenges:**
-- [Practice 1: Age Calc](lesson1_basics/practice1_age_in_10_years.py)  
+- [Practice 1: Age Calc](lesson1_basics/age_calculator.py)  
 - [Practice 2: Age in 10 years](lesson1_basics/practice2_double_half_age.py)  
 - [Practice 3: Sum & Product](lesson1_basics/practice3_sum_product.py)  
 
