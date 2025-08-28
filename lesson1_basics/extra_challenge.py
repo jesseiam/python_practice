@@ -1,0 +1,5 @@
+name= input("what is your name?: ")
+age= int(input("what is your age?: "))
+hobby= input("what is your favorite hobby?: ")
+print(f"Hi {name}! You're {age} and you love {hobby}")
+print(f"In 10 years you will be {age + 10}")
