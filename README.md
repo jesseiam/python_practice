@@ -16,7 +16,8 @@ I’m breaking everything into lessons, with practice challenges under each one.
 **Challenges:**
 - [Practice 1: Age Calc](lesson1_basics/age_calculator.py)  
 - [Practice 2: Age in 10 years](lesson1_basics/agecalc2.py)  
-- [Practice 3: Extra Challenge](lesson1_basics/extra_challenge.py)  
+- [Practice 3: Extra Challenge](lesson1_basics/extra_challenge.py)
+- [Practice 4: Lesson 1 Final](lesson1_basics/final_Lesson1.py) 
 
 ---
 
