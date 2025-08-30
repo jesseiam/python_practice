@@ -27,7 +27,7 @@ I’m breaking everything into lessons, with practice challenges under each one.
 - If/elif/else conditions
 
 **Challenges:**
-- [Practice 1: Even or Odd Checker](lesson2_if_else/practice1_even_odd_checker.py)  
+- [Practice 1: Even or Odd Checker](lesson2_basics/practice1_even_odd_checker.py)  
 - [Practice 2: Password Validator](lesson2_if_else/practice2_password_validator.py)  
 
 ---
