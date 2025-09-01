@@ -28,7 +28,7 @@ I’m breaking everything into lessons, with practice challenges under each one.
 
 **Challenges:**
 - [Practice 1: Even or Odd Checker](lesson2_basics/even_odd.py)  
-- [Practice 2: Password Validator](lesson2_if_else/practice2_password_validator.py)  
+- [Practice 2: Voting Age](lesson2_basics/voting_age.py)  
 
 ---
 
