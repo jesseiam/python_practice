@@ -30,6 +30,8 @@ I’m breaking everything into lessons, with practice challenges under each one.
 - [Practice 1: Even or Odd Checker](lesson2_basics/even_odd.py)  
 - [Practice 2: Voting Age](lesson2_basics/voting_age.py)
 - [Practice 3: Guessing Game](lesson2_basics/guessing_game.py)
+- [Practice 4: Bonus Challenge](lesson2_basics/bonus_challenge)
+- 
   
 
 ---
