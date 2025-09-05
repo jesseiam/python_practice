@@ -1,4 +1,4 @@
-price = float(input("what is the price of the iterm: "))
+price = float(input("what is the price of the item: "))
 
 if price > 100:
     discount = price * .20
