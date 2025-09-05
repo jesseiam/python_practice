@@ -32,6 +32,7 @@ I’m breaking everything into lessons, with practice challenges under each one.
 - [Practice 3: Guessing Game](lesson2_basics/guessing_game.py)
 - [Practice 4: Bonus Challenge](lesson2_basics/bonus_challenge)
 - [Practice 5: Calculator_Conditions](lesson2_basics/calculator_conditions.py)
+- [Practice 6: Discount Calc](lesson2_basics/discount_cal)
   
 
 ---
