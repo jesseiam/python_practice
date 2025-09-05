@@ -1,0 +1,10 @@
+price = float(input("what is the price of the iterm: "))
+
+if price > 100:
+    discount = price * .20
+else:
+    discount = price * .10
+
+final_price = price - discount
+
+print(f"The final price is: {final_price}")
